@@ -1,0 +1,8 @@
+Tóm tắt kết nối:
+GPIO 0: Nút BOOT (Có sẵn trên mạch).
+
+GPIO 2: Đèn LED báo hiệu (Có sẵn trên mạch).
+
+GPIO 4: Chân phát tín hiệu hồng ngoại (IR LED).
+
+GPIO 18: Công tắc chọn vùng (Nối GND = EA, Để trống = EU).
